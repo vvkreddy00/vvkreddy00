@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/114337213/218172084-62191cef-94b6-4087-a4c5-2f07b272ae61.gif"  />
+<img align="right" height="240" src="https://user-images.githubusercontent.com/114337213/218172084-62191cef-94b6-4087-a4c5-2f07b272ae61.gif"  />
 
 ###
 
