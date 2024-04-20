@@ -43,7 +43,24 @@
 
 ###
 
-<p align="left">- 🔭  I’m a Full Stack Web Developer.<br>- 📚 I'm currently learning advance java and springboot<br>- 🌐 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vvkreddy/) <br>- 📫 You can reach me at vinaykumarreddyvelagala@gmail.com<br>- 🔭  Currently searching for a full time Job.<br>- ⚡Code with passion, create with purpose.</p>
+- 🔭 I’m a **Full Stack Web Developer**
+
+- 🌱 I’m currently learning **Next.JS**
+
+- 💬 Ask me about **Node.JS, ReactJs, NextJS, SQL, MongoDB, TypeScript, Express.JS, AWS, HTML, CSS, JavaScript, & DSA**
+
+- 📫 How to reach me
+ **vashevne@gmail.com**
+
+- 🌏 Visit to my <a href="https://vaibhzz101.github.io/">Portfolio</a>
+
+- 📃 Look at my [Resume](https://drive.google.com/file/d/16tQUUbquZpysvg0H4ZR6gTEdReZQuqjO/view?usp=share_link) 
+
+- 👨‍💻 All my projects are available at my [Git_Hub](https://github.com/vaibhzz101)
+
+- ⚡ Fun fact **World is Ending soon, So better commit your code before you....**
+
+
 
 ###
 
