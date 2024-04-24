@@ -50,7 +50,7 @@
 - 📫 You can reach me at
  **vinaykumarreddyvelagala@gmail.com**
 - 🔭  Currently searching for a **full time Job**
-- ⚡Code with **passion**, create with **purpose**
+- ⚡Code with **passion**, create with **purpose**.
 
 ###
 
